@@ -1,0 +1,50 @@
+{
+  "users": "Users",
+  "username": "Username",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "superuser": "superuser",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "activeUser": "active user",
+  "search": "search",
+  "active": "active",
+  "inactive": "inactive",
+  "identifier": "User id",
+  "warnings": {
+    "min": "Minimum number of symbols - {{count}}",
+    "max": "Exceeded symbols limit. Мax - {{count}}",
+    "required": "This field is required",
+    "passValidity": "Password must contain uppercase and lowercase english letters, also numbers",
+    "usernameValidity": "Username must contain english letters",
+    "confirmPass": "Both password need to be the same",
+    "authError": "Unable to log in with provided credentials",
+    "defaultError" : "Something wrong! Check our network connection or try it later :(",
+    "collisionError": "A user with that username already exists"
+  },
+  "buttons": {
+    "login": "Sing in",
+    "logout": "Logout",
+    "confirmCreate": "Submit",
+    "confirmEdit": "Submit",
+    "confirmDelete": "Yes, delete",
+    "edit": "Edit user",
+    "delete": "Delete user",
+    "create": "+ Create user"
+  },
+  "placeholders": {
+    "search": "Type username"
+  },
+  "modals": {
+    "creating": {
+      "title": "Create new user"
+    },
+    "editing": {
+      "title": "Edit user"
+    },
+    "deleting": {
+      "title": "Delete user",
+      "body": "Are you sure you want to delete the user?"
+    }
+  }
+}

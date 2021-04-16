@@ -4,12 +4,12 @@
 ## [Emphasoft test assignment](http://emphasoft-test-assignment.surge.sh)
 
 
-Выполненое задание представляет собой SPA админку на React/React Router.
+Выполненое задание представляет собой SPA админку на React/React Router.  
 **Api**: http://emphasoft-test-assignment.herokuapp.com/swagger/
 
-**Данные для авторизации:**
-  **username:** test_super
-  **password:** Nf<U4f<rDbtDxAPn
+**Данные для авторизации:**  
+  **username:** test_super  
+  **password:** Nf<U4f<rDbtDxAPn  
 
 ## Функционал
 
